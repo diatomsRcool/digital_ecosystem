@@ -1,0 +1,25 @@
+Taxon_1,interaction_type,Taxon_2
+Pisaster,eats,gooseneck barnacle
+Pisaster,eats,limpet
+Pisaster,eats,bivalve
+Pisaster,eats,acorn barnacle
+Pisaster,eats,chiton
+Pisaster,eats,Thais
+Thais,eats,limpet
+Thais,eats,bivalve
+Thais,eats,acorn barnacle
+gooseneck barnacle,eats,algae
+limpet,eats,algae
+bivalve,eats,algae
+acorn barnacle,eats,algae
+chiton,eats,algae
+gooseneck barnacle,competes,limpet
+gooseneck barnacle,competes,bivalve
+gooseneck barnacle,competes,acorn barnacle
+gooseneck barnacle,competes,chiton
+limpet,competes,bivalve
+limpet,competes,acorn barnacle
+limpet,competes,chiton
+bivalve,competes,acorn barnacle
+bivalve,competes,chiton
+acorn barnacle,competes,chiton
