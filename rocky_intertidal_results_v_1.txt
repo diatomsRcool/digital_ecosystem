@@ -1,0 +1,229 @@
+squares
+gooseneck barnacle	184
+bivalve	221
+Thais	93
+acorn barnacle	221
+Pisaster	177
+chiton	184
+algae	139
+limpet	221
+
+pentagons
+gooseneck barnacle	1108
+bivalve	1336
+Thais	530
+acorn barnacle	1336
+Pisaster	1054
+chiton	1108
+algae	822
+limpet	1336
+
+hexagons
+gooseneck barnacle	6829
+bivalve	8225
+Thais	3324
+acorn barnacle	8225
+Pisaster	6518
+chiton	6829
+algae	5093
+limpet	8225
+
+heptagons
+gooseneck barnacle	41818
+bivalve	50384
+Thais	20242
+acorn barnacle	50384
+Pisaster	39876
+chiton	41818
+algae	31140
+limpet	50384
+
+octagons
+gooseneck barnacle	256559
+bivalve	309081
+Thais	124403
+acorn barnacle	309081
+Pisaster	244707
+chiton	256559
+algae	191129
+limpet	309081
+
+degree centrality
+gooseneck barnacle	0.857142857143
+bivalve	1.0
+Thais	0.571428571429
+acorn barnacle	1.0
+Pisaster	0.857142857143
+chiton	0.857142857143
+algae	0.714285714286
+limpet	1.0
+
+betweenness centrality
+gooseneck barnacle	0.00952380952381
+bivalve	0.0492063492063
+Thais	0.0
+acorn barnacle	0.0492063492063
+Pisaster	0.0238095238095
+chiton	0.00952380952381
+algae	0.0
+limpet	0.0492063492063
+
+closeness centrality
+gooseneck barnacle	0.875
+bivalve	1.0
+Thais	0.7
+acorn barnacle	1.0
+Pisaster	0.875
+chiton	0.875
+algae	0.777777777778
+limpet	1.0
+
+eigenvector centrality
+gooseneck barnacle	0.358112971826
+bivalve	0.393068001516
+Thais	0.249316988141
+acorn barnacle	0.393068001516
+Pisaster	0.349734129034
+chiton	0.358112971826
+algae	0.309079141621
+limpet	0.393068001516
+
+edge betwenness centrality
+('bivalve', 'algae')	0.0547619047619
+('acorn barnacle', 'algae')	0.0547619047619
+('Thais', 'acorn barnacle')	0.0654761904762
+('acorn barnacle', 'Pisaster')	0.0428571428571
+('Thais', 'limpet')	0.0654761904762
+('bivalve', 'Pisaster')	0.0428571428571
+('gooseneck barnacle', 'chiton')	0.0357142857143
+('Pisaster', 'limpet')	0.0428571428571
+('algae', 'limpet')	0.0547619047619
+('acorn barnacle', 'chiton')	0.0446428571429
+('bivalve', 'acorn barnacle')	0.0357142857143
+('gooseneck barnacle', 'limpet')	0.0446428571429
+('bivalve', 'limpet')	0.0357142857143
+('chiton', 'algae')	0.0428571428571
+('acorn barnacle', 'limpet')	0.0357142857143
+('gooseneck barnacle', 'acorn barnacle')	0.0446428571429
+('bivalve', 'chiton')	0.0446428571429
+('Pisaster', 'chiton')	0.0517857142857
+('gooseneck barnacle', 'bivalve')	0.0446428571429
+('gooseneck barnacle', 'Pisaster')	0.0517857142857
+('Thais', 'Pisaster')	0.0535714285714
+('bivalve', 'Thais')	0.0654761904762
+('chiton', 'limpet')	0.0446428571429
+('gooseneck barnacle', 'algae')	0.0428571428571
+
+katz centrality
+gooseneck barnacle	0.355296485971
+bivalve	0.381427166315
+acorn barnacle	0.381427166315
+Pisaster	0.352036887349
+chiton	0.355296485971
+Thais	0.287437541279
+algae	0.323293139908
+limpet	0.381427166315
+
+communicability
+gooseneck barnacle	{'gooseneck barnacle': 59.56075440748566, 'bivalve': 64.74013326851053, 'Thais': 40.62153875719846, 'acorn barnacle': 64.74013326851053, 'Pisaster': 57.55806399759014, 'chiton': 59.19287496631423, 'algae': 51.17238605989208, 'limpet': 64.74013326851053}
+bivalve	{'gooseneck barnacle': 64.74013326851053, 'bivalve': 71.46012511258101, 'Thais': 45.251517808208476, 'acorn barnacle': 71.09224567140959, 'Pisaster': 63.287378840595075, 'chiton': 64.74013326851055, 'algae': 55.91375616099598, 'limpet': 71.09224567140957}
+Thais	{'gooseneck barnacle': 40.62153875719846, 'bivalve': 45.251517808208476, 'Thais': 29.783510543883455, 'acorn barnacle': 45.25151780820848, 'Pisaster': 40.51014770710458, 'chiton': 40.621538757198465, 'algae': 34.89222391419355, 'limpet': 45.251517808208476}
+acorn barnacle	{'gooseneck barnacle': 64.74013326851053, 'bivalve': 71.09224567140959, 'Thais': 45.25151780820848, 'acorn barnacle': 71.46012511258104, 'Pisaster': 63.28737884059509, 'chiton': 64.74013326851056, 'algae': 55.91375616099599, 'limpet': 71.09224567140959}
+Pisaster	{'gooseneck barnacle': 57.55806399759014, 'bivalve': 63.287378840595075, 'Thais': 40.51014770710458, 'acorn barnacle': 63.28737884059509, 'Pisaster': 56.91900496112031, 'chiton': 57.55806399759015, 'algae': 49.256362456034275, 'limpet': 63.287378840595075}
+chiton	{'gooseneck barnacle': 59.19287496631423, 'bivalve': 64.74013326851055, 'Thais': 40.621538757198465, 'acorn barnacle': 64.74013326851056, 'Pisaster': 57.55806399759015, 'chiton': 59.5607544074857, 'algae': 51.1723860598921, 'limpet': 64.74013326851055}
+algae	{'gooseneck barnacle': 51.17238605989208, 'bivalve': 55.91375616099598, 'Thais': 34.89222391419355, 'acorn barnacle': 55.91375616099599, 'Pisaster': 49.256362456034275, 'chiton': 51.1723860598921, 'algae': 44.804012180417345, 'limpet': 55.91375616099598}
+limpet	{'gooseneck barnacle': 64.74013326851053, 'bivalve': 71.09224567140957, 'Thais': 45.251517808208476, 'acorn barnacle': 71.09224567140959, 'Pisaster': 63.287378840595075, 'chiton': 64.74013326851055, 'algae': 55.91375616099598, 'limpet': 71.46012511258101}
+
+cliques
+gooseneck barnacle
+bivalve
+Thais
+acorn barnacle
+Pisaster
+chiton
+algae
+limpet
+
+triangles
+gooseneck barnacle	14
+bivalve	17
+Thais	6
+acorn barnacle	17
+Pisaster	13
+chiton	14
+algae	10
+limpet	17
+
+transitivity
+0.870967741935
+
+clustering
+gooseneck barnacle	0.933333333333
+bivalve	0.809523809524
+Thais	1.0
+acorn barnacle	0.809523809524
+Pisaster	0.866666666667
+chiton	0.933333333333
+algae	1.0
+limpet	0.809523809524
+
+square clustering
+gooseneck barnacle	0.983050847458
+bivalve	0.945205479452
+Thais	1.0
+acorn barnacle	0.945205479452
+Pisaster	1.0
+chiton	0.983050847458
+algae	1.0
+limpet	0.945205479452
+
+average node connectivity
+5.32142857143
+
+edge connectivity
+4
+
+node connectivity
+4
+
+center
+bivalve
+acorn barnacle
+limpet
+
+diameter
+2
+
+eccentricity
+gooseneck barnacle	2
+bivalve	1
+Thais	2
+acorn barnacle	1
+Pisaster	2
+chiton	2
+algae	2
+limpet	1
+
+periphery
+gooseneck barnacle
+Thais
+Pisaster
+chiton
+algae
+
+radius
+1
+
+dominating set
+gooseneck barnacle
+Thais
+
+closeness vitality
+gooseneck barnacle	16.0
+bivalve	14.0
+Thais	20.0
+acorn barnacle	14.0
+Pisaster	16.0
+chiton	16.0
+algae	18.0
+limpet	14.0
