@@ -1,0 +1,26 @@
+Taxon_1,interaction,Taxon_2
+Enhydra lutris,eats,Strongylocentrotus
+Strongylocentrotus,eats,annual kelp
+Strongylocentrotus,eats,perennial kelp
+Strongylocentrotus,eats,benthic algae
+annual kelp,competes,benthic algae
+perennial kelp,competes,benthic algae
+perennial kelp,competes,annual kelp
+Enhydra lutris,eats,bivalve
+Enhydra lutris,eats,Katharina tunicata
+Katharina tunicata,eats,annual kelp
+Katharina tunicata,eats,perennial kelp
+Katharina tunicata,eats,benthic algae
+bivalve,eats,planktonic algae
+annual kelp,habitatFor,polychaete
+annual kelp,habitatFor,amphipod
+annual kelp,habitatFor,decapod
+annual kelp,habitatFor,ophiuroids
+perennial kelp,habitatFor,polychaete
+perennial kelp,habitatFor,amphipod
+perennial kelp,habitatFor,decapod
+perennial kelp,habitatFor,ophiuroids
+perennial kelp,habitatFor,pinniped
+perennial kelp,habitatFor,whale
+perennial kelp,habitatFor,Enhydra lutris
+perennial kelp,habitatFor,birds
